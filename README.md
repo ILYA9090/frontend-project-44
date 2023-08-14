@@ -9,7 +9,9 @@ brain-calc. Arithmetic expressions that need to be calculated.
 brain-gcd. Determination of the greatest common divisor.
 brain-progression. Finding missing numbers in a sequence of numbers.
 brain-prime. Determination of a prime number.
+
 Demo of games
+
 Brain-even
 https://asciinema.org/a/oai9m5ni7dynEpbVAb5Bs7GeK
 Brain-calc
